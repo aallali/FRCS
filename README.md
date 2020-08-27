@@ -13,7 +13,7 @@ FRCS is a very simple console script in JavaScript to cancel all pending friend 
 (you can check how many requests has been canceled by typing the following command )
 
 ```bash
-console.log(kh_spot())
+ kh_spot();
 // display e.g : 13/37 
 // 37 : total of pending requests
 // 13 : total of canceled requests 
