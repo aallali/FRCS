@@ -34,12 +34,13 @@ Estimated time : XX minutes ...
 since the script not very accurate , sometimes it skips some requests due to low load of the elements needed for the operation, the script already handle this case for one time by doing a recursion on the code itself but other cases its ignored ,
 its OK , just reload the page and run the scrip again.
 
-## Coming soon
-I'm thinking to add more features to the script and implement it in an extension for fast and simple use. 
+## Coming Next
+I'm planning to add more features to the script and implement it into a browser extension for fast and simple use.
+help with your ideas :)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ##
-by : [@allaliabdullah]()
+by : [@allaliabdullah](https://twitter.com/AllaliAbdullah)
  
