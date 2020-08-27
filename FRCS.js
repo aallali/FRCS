@@ -58,7 +58,7 @@ function kh_fetch_elems() {
     */
 }
 
-/* the auto canceling function tacking array of btn element */
+/* the auto canceling function taking array of btn element */
 function kh_auto_cancel(arr) {
     /* check if the array if  empty before excute the code */
     if (arr.length != 0) {
